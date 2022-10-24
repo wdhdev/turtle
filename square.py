@@ -1,6 +1,6 @@
 from turtle import *
 
-speed(100)
+speed(0)
 
 for square in range(4):
   forward(50)
