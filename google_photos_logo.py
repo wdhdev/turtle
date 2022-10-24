@@ -1,6 +1,6 @@
 from turtle import *
 
-speed(100)
+speed(0)
 
 for logo in range(4):
   for i in range(180):
